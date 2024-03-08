@@ -132,7 +132,17 @@ nav button {
     position: relative;
     
 }
+.simg1{
+    width: 50vw;
+    position: relative;
+    
+}
 .simg img{
+    width: 400px;
+    position: relative;
+    z-index: 10;
+}
+.simg1 img{
     width: 400px;
     position: relative;
     z-index: 10;
@@ -141,8 +151,14 @@ nav button {
     width: 291px;
     position: absolute;
     top: 62px;
-    right: 56px;
+    right: 295px;
 
+}
+.simg1 video {
+    width: 251px;
+    position: absolute;
+    top: 31px;
+    right: 310px;
 }
 .first div{
     display: flex;

@@ -7,13 +7,12 @@
   <h1> Netflix Front-End Clone </h1>
 </div>
 
-![image](<img width="941" alt="image" src="https://github.com/MohammadShabazuddin/Netflix-Clone/assets/44221567/958ef88f-31e3-4142-8ec6-7521e6a38db1">)
+<img width="941" alt="image" src="https://github.com/MohammadShabazuddin/Netflix-Clone/assets/44221567/958ef88f-31e3-4142-8ec6-7521e6a38db1">
 
 ## Table of Contents
 - [About This Project](#about-this-project)
 - [Technologies Utilized](#technologies-utilized)
 - [Getting Started](#getting-started)
-- [Contact](#contact)
 - [Acknowledgment](#acknowledgment)
 
 ## About This Project
@@ -26,7 +25,7 @@ _Feel free to explore and contribute to enhance the project further!_
 
 > [!NOTE]
 >
-> Please note that the Netflix Front-End Clone provided here is not suitable for hosting on the internet due to its nature as a clone of Netflix. However, you can get a quick preview by visiting (https://mohammadshabazuddin.github.io/Netflix-Clone/), which is compatible with all devices.
+> Please note that the Netflix Front-End Clone provided here is not suitable for hosting on the internet due to its nature as a clone of Netflix. However, you can get a quick preview by visiting (https://mohammadshabazuddin.github.io/Netflix-Clone/)
 >
 
 ## Technologies Utilized

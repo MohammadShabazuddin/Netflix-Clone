@@ -17,7 +17,7 @@
 
 ## About This Project
 
-This project is a front-end clone of the popular streaming platform, Netflix. It aims to recreate the immersive and user-friendly interface of Netflix, allowing users to browse, search, and stream movies and TV shows seamlessly. The project is built with a focus on intuitive design and smooth video playback, providing an enjoyable viewing experience.
+This project is a front-end clone of the popular streaming platform, Netflix. It aims to recreate the immersive and user-friendly interface of Netflix. The project is built with a focus on intuitive design and smooth video playback, providing an enjoyable viewing experience.
 
 Whether you're a movie enthusiast or a developer looking to explore front-end design, this project offers a hands-on experience in building a modern web application.
 
